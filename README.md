@@ -21,8 +21,6 @@ From creating UI addons in World of Warcraft over a decade ago, to selling propr
 
 ⚡ &nbsp;Typing Speed: <a href="https://www.youtube.com/watch?v=fSopVN6exb4&list=PL1GTnDzGCK30MdDe23qBDxfEAG61dAgBy&t=210s" target="_blank" rel="noopener noreferrer">130 wpm</a>. 140 on a good day.
 
-🥧 &nbsp;Fun Fact: I memorized 850 digits of pi in 7th grade :)
-
 <hr>
 
 🌱 &nbsp;Outside of professional interests, I enjoy:
@@ -31,14 +29,7 @@ From creating UI addons in World of Warcraft over a decade ago, to selling propr
 <li>playing the piano for seniors at local memory care facilities</li>
 <li>leading drum circles at yoga retreats</li>
 <li>mastering audio for ASMRtists</li>
-<li><a href="https://www.evernote.com/pub/dominiclakhotia/dlakhotia" target="_blank" rel="noopener noreferrer">reading to stay on top of new developments in neuroscience and disruptive fintech since 2010</a> — current areas of interest include:</li>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Modafinil" target="_blank" rel="noopener noreferrer">modafinil</a> and other <a href="https://troof.blog/posts/nootropics" target="_blank" rel="noopener noreferrer">nootropics'</a> usefulness, problems, and risks</li>
-<li>cases of <a href="https://www.reddit.com/r/NootropicsDepot/comments/va9kvu/lab_testing_results_of_turkesterone_beta/" target="_blank" rel="noopener noreferrer">widespread contamination</a> in the supplement industry</li>
-<li>the law of <a href="https://www.lesswrong.com/posts/jiBFC7DcCrZjGmZnJ/conservation-of-expected-evidence" target="_blank" rel="noopener noreferrer">Conservation of Expected Evidence</a> and <a href="https://en.wikipedia.org/wiki/Ray_Kurzweil#Health_and_aging" target="_blank" rel="noopener noreferrer">excessive supplementation</a> (among other applications)</li>
-<li>metformin for <a href="http://dlakhotia.com/docs/2021-scott.pdf" target="_blank" rel="noopener noreferrer">life-extension</a></li>
-<li>ketamine's efficacy in reducing <a href="http://dlakhotia.com/docs/2021-xiong.pdf" target="_blank" rel="noopener noreferrer">SI</a> and <a href="http://dlakhotia.com/docs/2018-jones.pdf" target="_blank" rel="noopener noreferrer">drug recidivism rates</a></li>
-</ul>
+<li><a href="https://www.evernote.com/pub/dominiclakhotia/dlakhotia" target="_blank" rel="noopener noreferrer">reading to stay on top of new developments in neuroscience and disruptive fintech since 2010</a></li>
 </ul>
 
 🙂 &nbsp;I am happiest when I'm making people feel good about themselves. Nothing teaches hope, kindness, courage, and compassion like helping others, for everyone we meet is fighting a hard battle.
@@ -68,6 +59,7 @@ From creating UI addons in World of Warcraft over a decade ago, to selling propr
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" /></a>
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25" /></a>
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" /></a>
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>
